@@ -27,6 +27,6 @@ Checkout the following Video Tutorials to understand how to enable social logins
     </iframe>
 </div>
 
-For Google the *Authorized redirect URI* is [yoursite]/api/method/frappe.www.login.login_via_google
+For Google the *Authorized redirect URI* is `[yoursite]/api/method/frappe.www.login.login_via_google`
 
 {next}
